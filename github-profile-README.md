@@ -1,76 +1,89 @@
 <!-- Paste this entire file into README.md of your repo named exactly: ajsaini077/ajsaini077 -->
 
-<h1 align="center">Arjun Saini</h1>
-<p align="center"><b>Data Analyst · E-commerce & Marketplace Analytics</b></p>
-<p align="center">New Delhi, India · Open to relocation & visa sponsorship</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arjuns-384a74195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ajsaini077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:1a8fe3&height=200&section=header&text=Arjun%20Saini&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20E-commerce%20Analytics&descSize=18&descAlignY=60" alt="Arjun Saini - Data Analyst, Business Intelligence, E-commerce Analytics" />
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1A8FE3&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Reporting;SQL+%C2%B7+Power+BI+%C2%B7+Advanced+Excel+%C2%B7+Tableau+%C2%B7+Looker+Studio;Open+to+relocation+%26+visa+sponsorship" alt="Typing SVG" /></a>
 
-## About
+![Open to Relocation](https://img.shields.io/badge/Open%20to-Relocation%20%26%20Visa%20Sponsorship-0b3d91?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-1a8fe3?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-New%20Delhi%2C%20India-4c1?style=for-the-badge)
 
-Data Analyst with 5+ years of experience turning messy, multi-platform e-commerce data into decisions that protect revenue and drive growth. I work across **Amazon, Flipkart, Myntra, Meesho, Blinkit and Zepto**, building reporting systems that give brand owners a single, trustworthy view of their business.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjuns-384a74195)
+[![Email](https://img.shields.io/badge/Email-ajsaini077%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajsaini077@gmail.com)
 
-I'm seeking **Data Analyst / Analytics roles abroad with visa sponsorship**, particularly with globally distributed teams.
+</div>
 
 ---
 
-## At a Glance
+## 👋 About Me
 
-| | |
+**Data Analyst with 5+ years of experience in e-commerce analytics, business intelligence and MIS reporting.** I turn messy, multi-platform marketplace data into dashboards, scorecards and insights that protect revenue and drive growth, and I make the numbers easy for non-technical stakeholders to act on.
+
+🌍 **Seeking Data Analyst / Business Intelligence / Analytics roles abroad with visa sponsorship.**
+
+---
+
+## 🛠️ Technical Skills
+
+### Data Querying & Analysis
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1a8fe3?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1a8fe3?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-1a8fe3?style=for-the-badge)
+
+### Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-1a8fe3?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1a8fe3?style=for-the-badge)
+
+### Excel & Automation
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Automation](https://img.shields.io/badge/Reporting%20Automation-1a8fe3?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge)
+
+### E-commerce & Marketplace Analytics
+![Marketplace Analytics](https://img.shields.io/badge/Marketplace%20Analytics-0b3d91?style=for-the-badge)
+![Omnichannel Reporting](https://img.shields.io/badge/Omnichannel%20Reporting-0b3d91?style=for-the-badge)
+![Quick Commerce](https://img.shields.io/badge/Quick%20Commerce%20Analytics-0b3d91?style=for-the-badge)
+![Shopify](https://img.shields.io/badge/Shopify%20Analytics-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM%20Systems-0b3d91?style=for-the-badge)
+
+### Paid Media & Performance
+![PPC](https://img.shields.io/badge/PPC%20Optimization-4285F4?style=for-the-badge)
+![ACOS](https://img.shields.io/badge/ACOS%20%7C%20ROAS-4285F4?style=for-the-badge)
+![Amazon Ads](https://img.shields.io/badge/Amazon%20Ads-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Flipkart Ads](https://img.shields.io/badge/Flipkart%20Ads-2874F0?style=for-the-badge)
+
+---
+
+## 🔑 Core Competencies
+
+`Business Intelligence` · `KPI Reporting` · `Dashboard Design` · `Data Storytelling` · `Executive Summaries` · `Stakeholder Reporting` · `Settlement Reconciliation` · `Revenue Recovery` · `P&L Analysis` · `Margin Analysis` · `Channel Profitability` · `Returns Analysis` · `Ad Spend Efficiency` · `SKU-Level Analysis` · `MIS Reporting` · `Performance Scorecards` · `Process Automation` · `Cross-Platform Data Consolidation`
+
+---
+
+## 📊 Impact
+
+| What I delivered | Result |
 |---|---|
-| **Experience** | 5+ years in e-commerce data analytics and MIS reporting |
-| **Domain** | Marketplace analytics, settlement reconciliation, paid media performance, P&L and margin analysis |
-| **Core tools** | SQL · Power BI · Advanced Excel (VBA) · Tableau · Looker Studio |
-| **Strengths** | Dashboard design, KPI scorecards, data storytelling for non-technical stakeholders |
-
----
-
-## Impact
-
-- 📊 Built an omnichannel **Power BI** reporting system consolidating 6+ marketplaces, cutting cross-platform reporting time by ~50%
-- 🔍 Led **settlement reconciliation** across 8+ channels, flagging recurring payout discrepancies for recovery
-- 📈 Optimized **Amazon Ads and Flipkart PPC** campaigns, tracking spend at SKU level to improve ACOS and ROAS
-- 🧾 Delivered **P&L and margin analysis** across 5+ sales channels to inform budget reallocation
-- 🗂️ Designed **brand-level scorecards** and weekly executive summaries that let stakeholders act without analyst dependency
-
----
-
-## Skills
-
-| Category | Tools & Methods |
-|---|---|
-| **Querying** | SQL (MySQL) for large transaction datasets |
-| **BI & Dashboards** | Power BI, Tableau, Looker Studio |
-| **Automation** | Advanced Excel, VBA, settlement reconciliation workflows |
-| **E-commerce Analytics** | Shopify Analytics, marketplace data across 8+ channels, CRM systems |
-| **Paid Media** | Amazon Ads, Flipkart Ads, ACOS and ROAS optimization |
-| **Communication** | Executive summaries, stakeholder reporting, data storytelling |
-
----
-
-## Experience
-
-| Role | Company | Period |
-|---|---|---|
-| E-commerce Data Analyst | Wednesday Green Global Solutions | Mar 2025 – Jun 2026 |
-| MIS Executive | Webdaksha Solutions | Dec 2022 – Feb 2025 |
-| MIS Executive | Behtar Zindagi | Feb 2022 – Dec 2022 |
-| CRM Executive, Back Office | Subhansh Capital | Feb 2021 – Feb 2022 |
-
-**Education:** B.Com, School of Open Learning, University of Delhi
-**Certifications:** Data Analyst Skillpath: Zero to Hero in Excel, SQL & Python · The Comprehensive MySQL Course
+| Omnichannel **Power BI** reporting system across 6+ marketplaces | Cut cross-platform reporting time by ~50% |
+| **Settlement reconciliation** across 8+ channels | Flagged recurring payout discrepancies for recovery |
+| **PPC campaign optimization** with SKU-level spend tracking | Improved ACOS and ROAS |
+| **P&L and margin analysis** across 5+ sales channels | Informed budget reallocation decisions |
+| Brand-level **scorecards** and weekly executive summaries | Stakeholders act on KPIs without analyst dependency |
 
 ---
 
 <!--
 PROJECTS SECTION: uncomment when your first repo has real content.
 
-## Featured Projects
+## 📂 Featured Projects
 
 | Project | What it shows | Stack |
 |---|---|---|
@@ -79,6 +92,12 @@ PROJECTS SECTION: uncomment when your first repo has real content.
 > All projects use synthetic or anonymized public data.
 -->
 
-## Contact
+## 📬 Let's Connect
+
+I'm looking for **Data Analyst / Business Intelligence roles with visa sponsorship**, especially on globally distributed teams.
 
 📧 [ajsaini077@gmail.com](mailto:ajsaini077@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/arjuns-384a74195)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8fe3,100:0b3d91&height=100&section=footer" alt="footer" />
+</div>
