@@ -25,46 +25,68 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### Data Querying & Analysis
+### 🔎 Data Querying, Analysis & Quality
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1a8fe3?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1a8fe3?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1a8fe3?style=for-the-badge)
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-1a8fe3?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data%20Validation-1a8fe3?style=for-the-badge)
 
-### Business Intelligence & Visualization
+`SQL Querying` · `Complex Joins` · `Data Extraction` · `Data Consolidation` · `Data Reconciliation` · `Data Quality Checks` · `Ad-hoc Analysis` · `Trend Analysis` · `Variance Analysis` · `Root Cause Analysis` · `Problem Framing` · `Large Transaction Datasets`
+
+### 📊 Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0b3d91?style=for-the-badge)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-1a8fe3?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1a8fe3?style=for-the-badge)
 
-### Excel & Automation
-![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Automation](https://img.shields.io/badge/Reporting%20Automation-1a8fe3?style=for-the-badge)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge)
+`Business Intelligence (BI)` · `Interactive Dashboards` · `KPI Dashboards` · `Executive Dashboards` · `Self-Service Reporting` · `Real-Time Reporting` · `Report Automation` · `Dashboard Development & Maintenance` · `Scorecards` · `Data Storytelling`
 
-### E-commerce & Marketplace Analytics
+### 📗 Excel, VBA & Automation
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA%20Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Reporting%20Automation-1a8fe3?style=for-the-badge)
+
+`Advanced Excel` · `Excel VBA` · `Macros` · `Pivot Tables` · `Excel Formulas & Functions` · `Excel Dashboards` · `Workflow Automation` · `Process Automation` · `Audit Workflows` · `Reporting Templates`
+
+### 🛒 E-commerce & Marketplace Analytics
 ![Marketplace Analytics](https://img.shields.io/badge/Marketplace%20Analytics-0b3d91?style=for-the-badge)
 ![Omnichannel Reporting](https://img.shields.io/badge/Omnichannel%20Reporting-0b3d91?style=for-the-badge)
 ![Quick Commerce](https://img.shields.io/badge/Quick%20Commerce%20Analytics-0b3d91?style=for-the-badge)
 ![Shopify](https://img.shields.io/badge/Shopify%20Analytics-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM%20Systems-0b3d91?style=for-the-badge)
 
-### Paid Media & Performance
+`E-commerce Analytics` · `Marketplace Analytics` · `Omnichannel Analytics` · `Quick Commerce` · `Sales Analytics` · `Sales & Returns Analysis` · `Inventory Analytics` · `Cross-Platform Data Consolidation` · `Channel Performance` · `Brand Performance Reporting` · `Shopify Analytics` · `CRM Data`
+
+### 📣 Paid Media & Performance Analytics
 ![PPC](https://img.shields.io/badge/PPC%20Optimization-4285F4?style=for-the-badge)
-![ACOS](https://img.shields.io/badge/ACOS%20%7C%20ROAS-4285F4?style=for-the-badge)
+![ACOS ROAS](https://img.shields.io/badge/ACOS%20%7C%20ROAS-4285F4?style=for-the-badge)
 ![Amazon Ads](https://img.shields.io/badge/Amazon%20Ads-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Flipkart Ads](https://img.shields.io/badge/Flipkart%20Ads-2874F0?style=for-the-badge)
 
+`PPC Campaign Optimization` · `Amazon Ads` · `Flipkart Ads` · `ACOS Reduction` · `ROAS Improvement` · `Ad Spend Analysis` · `SKU-Level Analysis` · `Budget Allocation` · `Campaign Performance Analysis` · `Performance Marketing Analytics`
+
+### 💰 Financial & Revenue Analytics
+`P&L Analysis` · `Margin Analysis` · `Channel Profitability` · `Settlement Reconciliation` · `Payout Reconciliation` · `Revenue Recovery` · `Revenue Leakage Detection` · `Financial Reporting` · `Cost & Margin Visibility`
+
+### 🗂️ MIS & Reporting
+`MIS Reporting` · `Management Reporting` · `Daily / Weekly / Monthly Reporting` · `Sales Performance Reporting` · `KPI Tracking` · `Performance Scorecards` · `Report Standardization` · `Executive Summaries` · `Stakeholder Reporting`
+
+### 🤝 Business & Communication
+`Stakeholder Communication` · `Data Storytelling` · `Executive Presentation` · `Translating Data for Non-Technical Teams` · `Insight Generation` · `Decision Support` · `Cross-Functional Collaboration`
+
 ---
 
-## 🔑 Core Competencies
+## 🎯 Roles I'm Open To
 
-`Business Intelligence` · `KPI Reporting` · `Dashboard Design` · `Data Storytelling` · `Executive Summaries` · `Stakeholder Reporting` · `Settlement Reconciliation` · `Revenue Recovery` · `P&L Analysis` · `Margin Analysis` · `Channel Profitability` · `Returns Analysis` · `Ad Spend Efficiency` · `SKU-Level Analysis` · `MIS Reporting` · `Performance Scorecards` · `Process Automation` · `Cross-Platform Data Consolidation`
+`Data Analyst` · `Business Intelligence Analyst` · `BI Analyst` · `Reporting Analyst` · `MIS Analyst` · `E-commerce Analyst` · `Marketplace Analyst` · `Performance Analyst` · `Analytics Specialist` · `Visa Sponsorship` · `Relocation` · `Remote-Friendly`
 
 ---
 
