@@ -10,7 +10,7 @@
 ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-1a8fe3?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-New%20Delhi%2C%20India-4c1?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjuns-384a74195)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-s-384a74195/)
 [![Email](https://img.shields.io/badge/Email-ajsaini077%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajsaini077@gmail.com)
 
 </div>
@@ -19,7 +19,15 @@
 
 ## 👋 About Me
 
-**Data Analyst with 5+ years of experience in e-commerce analytics, business intelligence and MIS reporting.** I turn messy, multi-platform marketplace data into dashboards, scorecards and insights that protect revenue and drive growth, and I make the numbers easy for non-technical stakeholders to act on.
+**Data Analyst with 5+ years of experience in e-commerce analytics, business intelligence and MIS reporting.** I turn messy, multi-platform marketplace data into dashboards, scorecards and insights that protect revenue and drive growth.
+
+My work sits at the intersection of **omnichannel data reconciliation and paid media performance analytics**. I've built unified reporting across Amazon, Flipkart, Myntra, Meesho and quick-commerce platforms, giving brand owners one trustworthy view of revenue, returns, ad spend and margin.
+
+I work hands-on with **SQL, Power BI and Advanced Excel (VBA)**, and I'm extending my toolkit with **Python, cloud data warehousing and the modern data stack**, so I can move from reporting what happened to explaining why it happened and what to do next.
+
+Beyond the tools, I care about clear communication: weekly executive summaries, live dashboards built for founders who don't speak "analyst", and scorecards that stakeholders can use without me in the room.
+
+I bring a finance-aware, detail-first approach to data: reconciling numbers until they tie out, validating before visualizing, and flagging discrepancies early so money isn't lost quietly.
 
 🌍 **Seeking Data Analyst / Business Intelligence / Analytics roles abroad with visa sponsorship.**
 
@@ -56,6 +64,22 @@
 
 `Advanced Excel` · `Excel VBA` · `Macros` · `Pivot Tables` · `Excel Formulas & Functions` · `Excel Dashboards` · `Workflow Automation` · `Process Automation` · `Audit Workflows` · `Reporting Templates`
 
+### 🐍 Python, Statistics & Experimentation
+![Python](https://img.shields.io/badge/Python-pandas%20%7C%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-1a8fe3?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Experiment%20Design-1a8fe3?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+`Python` · `pandas` · `NumPy` · `Data Wrangling with Python` · `Statistical Analysis` · `Hypothesis Testing` · `A/B Testing` · `Experiment Design` · `Cohort Analysis` · `Funnel Analysis` · `Churn Analysis` · `Customer Lifetime Value (CLV)` · `Retention Analysis` · `Regression & Classification Basics` · `Scikit-learn`
+
+### ☁️ Cloud Data Warehousing & Modern Data Stack
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![LLM Analytics](https://img.shields.io/badge/LLM--Powered%20Analytics-6f42c1?style=for-the-badge)
+
+`Google BigQuery` · `Snowflake` · `Cloud Data Warehousing` · `dbt (data build tool)` · `Analytics Engineering` · `ELT Pipelines` · `Data Modeling` · `LLM-Powered Analytics Workflows` · `AI-Assisted Analytics`
+
 ### 🛒 E-commerce & Marketplace Analytics
 ![Marketplace Analytics](https://img.shields.io/badge/Marketplace%20Analytics-0b3d91?style=for-the-badge)
 ![Omnichannel Reporting](https://img.shields.io/badge/Omnichannel%20Reporting-0b3d91?style=for-the-badge)
@@ -82,23 +106,23 @@
 ### 🤝 Business & Communication
 `Stakeholder Communication` · `Data Storytelling` · `Executive Presentation` · `Translating Data for Non-Technical Teams` · `Insight Generation` · `Decision Support` · `Cross-Functional Collaboration`
 
----
+### 📈 Analytics Capabilities (What I Can Do)
+`Descriptive Analytics` · `Diagnostic Analytics` · `KPI Framework Design` · `Metric Definition` · `Single Source of Truth` · `Root Cause Analysis` · `Anomaly & Discrepancy Detection` · `Segmentation Analysis` · `Benchmarking` · `Profitability Analysis` · `Performance Tracking` · `Data-Driven Decision Making` · `Business Impact Analysis` · `Predictive Analytics (Foundations)` · `Demand Forecasting (Foundations)`
 
-### 🌱 Currently Learning
-![Python](https://img.shields.io/badge/Python-pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-1a8fe3?style=flat-square)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Experiment%20Design-1a8fe3?style=flat-square)
-![Cohort Funnel](https://img.shields.io/badge/Cohort%20%7C%20Funnel%20%7C%20Churn%20%7C%20CLV-1a8fe3?style=flat-square)
-![BigQuery](https://img.shields.io/badge/BigQuery%20%7C%20Snowflake-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LLM Analytics](https://img.shields.io/badge/LLM--Powered%20Analytics-6f42c1?style=flat-square)
+### 🛡️ Data Quality, Governance & Compliance
+`Data Quality Management` · `Data Accuracy & Integrity` · `Data Governance (Foundations)` · `Audit & Controls` · `Reconciliation Frameworks` · `Process Standardization` · `Documentation` · `Compliance-Aware Reporting` · `Data Privacy & GDPR Awareness` · `Responsible AI Awareness`
+
+### 🔮 Future-Ready Analytics
+`AI-Assisted Analytics` · `LLM-Powered Analytics Workflows` · `Prompt Engineering for Analytics` · `Natural-Language BI (Copilot-Style Tools)` · `Augmented Analytics` · `Automation-First Reporting` · `Self-Service BI` · `Real-Time Dashboards` · `Analytics Engineering` · `Data Products Mindset`
+
+### 🧭 Ways of Working
+`Requirement Gathering` · `Stakeholder Management` · `Cross-Functional Collaboration` · `Ownership & Accountability` · `Attention to Detail` · `Problem Solving` · `Structured Thinking` · `Prioritization` · `Remote & Distributed Team Collaboration` · `Clear Written Communication`
 
 ---
 
 ## 🎯 Roles I'm Open To
 
-`Data Analyst` · `Business Intelligence Analyst` · `BI Analyst` · `Reporting Analyst` · `MIS Analyst` · `E-commerce Analyst` · `Marketplace Analyst` · `Performance Analyst` · `Analytics Specialist` · `Visa Sponsorship` · `Relocation` · `Remote-Friendly`
+`Data Analyst` · `Business Intelligence Analyst` · `BI Analyst` · `Business Analyst` · `Reporting Analyst` · `MIS Analyst` · `E-commerce Analyst` · `Marketplace Analyst` · `Performance Analyst` · `Operations Analyst` · `Commercial Analyst` · `Growth Analyst` · `Analytics Specialist` · `Visa Sponsorship` · `Relocation` · `Remote-Friendly`
 
 ---
 
@@ -107,10 +131,17 @@
 | What I delivered | Result |
 |---|---|
 | Omnichannel **Power BI** reporting system across 6+ marketplaces | Cut cross-platform reporting time by ~50% |
+| Cross-platform **dashboards** unifying sales, returns, ad spend and margin | Moved leadership from weekly manual reports to real-time decision-making |
 | **Settlement reconciliation** across 8+ channels | Flagged recurring payout discrepancies for recovery |
-| **PPC campaign optimization** with SKU-level spend tracking | Improved ACOS and ROAS |
-| **P&L and margin analysis** across 5+ sales channels | Informed budget reallocation decisions |
+| Automated **settlement audit workflows** in Advanced Excel | Reduced manual review time by ~40% |
+| **Quick-commerce reconciliation** across weekly settlement cycles | Flagged payout gaps and return mismatches that fed revenue recovery |
+| **PPC campaign optimization** with SKU-level spend tracking | Improved ACOS and ROAS quarter over quarter |
+| **Budget allocation** and ad targeting refinement across platforms | Delivered consistent ROI improvements while managing multi-platform ad spend |
+| **P&L and margin analysis** across 5+ sales channels | Informed budget reallocation and improved net-margin visibility |
 | Brand-level **scorecards** and weekly executive summaries | Stakeholders act on KPIs without analyst dependency |
+| Daily and monthly **sales performance reporting** for a field sales team | Managers took corrective action 30%+ faster |
+| **Standardized reporting templates** and Excel dashboards | Reduced report-generation time and improved data consistency across teams |
+| **CRM pipeline tracking** for loan applications | Improved visibility into application stages and reduced follow-up delays |
 
 ---
 
@@ -130,7 +161,7 @@ PROJECTS SECTION: uncomment when your first repo has real content.
 
 I'm looking for **Data Analyst / Business Intelligence roles with visa sponsorship**, especially on globally distributed teams.
 
-📧 [ajsaini077@gmail.com](mailto:ajsaini077@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/arjuns-384a74195)
+📧 [ajsaini077@gmail.com](mailto:ajsaini077@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/arjun-s-384a74195/)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8fe3,100:0b3d91&height=100&section=footer" alt="footer" />
