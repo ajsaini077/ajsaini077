@@ -36,7 +36,7 @@
 ![Data Transformation](https://img.shields.io/badge/Data%20Transformation-1a8fe3?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data%20Validation-1a8fe3?style=for-the-badge)
 
-`SQL Querying` · `Complex Joins` · `Data Extraction` · `Data Consolidation` · `Data Reconciliation` · `Data Quality Checks` · `Ad-hoc Analysis` · `Trend Analysis` · `Variance Analysis` · `Root Cause Analysis` · `Problem Framing` · `Large Transaction Datasets`
+`SQL Querying` · `Complex Joins` · `Data Extraction` · `Data Consolidation` · `Data Reconciliation` · `Data Quality Checks` · `Ad-hoc Analysis` · `Trend Analysis` · `Variance Analysis` · `Root Cause Analysis` · `Problem Framing` · `Large Transaction Datasets` · `Data Wrangling` · `Descriptive Statistics` · `KPI Design`
 
 ### 📊 Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -81,6 +81,18 @@
 
 ### 🤝 Business & Communication
 `Stakeholder Communication` · `Data Storytelling` · `Executive Presentation` · `Translating Data for Non-Technical Teams` · `Insight Generation` · `Decision Support` · `Cross-Functional Collaboration`
+
+---
+
+### 🌱 Currently Learning
+![Python](https://img.shields.io/badge/Python-pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-1a8fe3?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Experiment%20Design-1a8fe3?style=flat-square)
+![Cohort Funnel](https://img.shields.io/badge/Cohort%20%7C%20Funnel%20%7C%20Churn%20%7C%20CLV-1a8fe3?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery%20%7C%20Snowflake-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLM Analytics](https://img.shields.io/badge/LLM--Powered%20Analytics-6f42c1?style=flat-square)
 
 ---
 
